@@ -1,0 +1,3 @@
+-BulkRenameLB: rename extension of spine files
+-TextureFix.jar: rescale texture of spine files (only works for uptie art for now)
+	+run: java -jar TextureFix.jar <directory of spine folder>
